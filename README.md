@@ -80,4 +80,4 @@ EUR = q_i / D
 
 ## 🙌 Let's Connect!
 
-If you're working on similar projects or want to collaborate, feel free to reach out on [LinkedIn]((https://www.linkedin.com/in/nicholas-anil-koshy)).
+If you're working on similar projects or want to collaborate, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/nicholas-anil-koshy).
