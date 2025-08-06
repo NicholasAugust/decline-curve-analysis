@@ -36,9 +36,7 @@ Forecast oil production over time using historical data, calculate cumulative pr
 
 We used the **Exponential Decline Model**:
 
-\[
-q(t) = q_i \times e^{-Dt}
-\]
+q(t) = q_i × e^{-Dt}
 
 Where:
 - \( q_i \): Initial production rate
@@ -47,9 +45,7 @@ Where:
 
 EUR was estimated using:
 
-\[
-EUR = \frac{q_i}{D}
-\]
+EUR = q_i / D
 
 > 📌 The production forecasting methodology and calculations were created using Microsoft Excel, with technical support and model design insights sourced from **Perplexity**.
 
@@ -57,7 +53,7 @@ EUR = \frac{q_i}{D}
 
 ## 📊 Preview
 
-![Dashboard Preview](preview.png)
+![Dashboard Preview](Preview.png)
 
 
 ---
